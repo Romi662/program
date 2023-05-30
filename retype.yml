@@ -1,0 +1,12 @@
+input: .
+output: build
+url: http://vodavoz.doc.ru/
+branding:
+  title: Приложение "1с Экспедиторов"
+  label: Водавоз
+links:
+- text: Наши контакты
+  link: http://vodavoz.ru/
+favicon: static/favicon.ico
+footer:
+  copyright: "Все права защищены"
