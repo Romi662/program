@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://vodavoz.doc.ru/sitemap.xml.gz
+Sitemap: http://vodavoz.expeditor.doc/sitemap.xml.gz
