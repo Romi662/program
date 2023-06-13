@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.0.3.739977981087">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.0.3.739978096852">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.0.3">
@@ -33,11 +33,11 @@
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../../static/favicon.ico" rel="icon" />
-    <link href="../../resources/css/retype.css?v=3.0.3.739977981087" rel="stylesheet" />
+    <link href="../../resources/css/retype.css?v=3.0.3.739978096852" rel="stylesheet" />
 
-    <script type="text/javascript" src="../../resources/js/config.js?v=3.0.3.739977981087" data-turbo-eval="false" defer></script>
+    <script type="text/javascript" src="../../resources/js/config.js?v=3.0.3.739978096852" data-turbo-eval="false" defer></script>
     <script type="text/javascript" src="../../resources/js/retype.js?v=3.0.3" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" type="text/javascript" src="../../resources/js/lunr.js?v=3.0.3.739977981087" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" type="text/javascript" src="../../resources/js/lunr.js?v=3.0.3.739978096852" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -199,24 +199,27 @@
 </p>
 <p>Пройдемся по всем признакам и дадим пояснения, как они работают</p>
 <ol>
-<li><span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-6 px-2 text-xs rounded-md">
+<li><p><span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-6 px-2 text-xs rounded-md">
     <span>Не использовать время в пути</span>
 </span> - данный признак отвечает за то, будет ли доступна команда <span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-6 px-2 text-xs rounded-md">
     <span>Поехал</span>
 </span> в приложении экспедитора. При её использовании в программе будет отмечено время выполнения маршрута. А если у вас есть интеграция с клиентским приложением, то по данному заказу будет сформирован и выслан <span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-6 px-2 text-xs rounded-md">
     <span>push-уведомление</span>
-</span> в котором будет указано через сколько к клиенту приедет водитель.</li>
-<li><span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-6 px-2 text-xs rounded-md">
+</span> в котором будет указано через сколько к клиенту приедет водитель.</p>
+</li>
+<li><p><span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-6 px-2 text-xs rounded-md">
     <span>Не использовать одометр</span>
 </span> - данная признак отвечает за доступность команды <span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-6 px-2 text-xs rounded-md">
     <span>Прибыл</span>
-</span> Данная команда передает в центральную базу показания адометра введенные водителем, что позволяет учитывать расстояние пройденное автомобилем и рассчитывать затраты на рейс.</li>
-<li><span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-6 px-2 text-xs rounded-md">
+</span> Данная команда передает в центральную базу показания адометра введенные водителем, что позволяет учитывать расстояние пройденное автомобилем и рассчитывать затраты на рейс.</p>
+</li>
+<li><p><span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-6 px-2 text-xs rounded-md">
     <span>Заполнять сумму при доставке</span>
-</span> - данный признак отвечает за автозаполнение суммы в приложении экспедитора, если он проставлен, то сумма полученных средст будет вставать автоматически у водителя, если нет, то ему придется в ручную её вводить. Рассчитана для контроля водителей, что бы они точно вносили данные, а не пропускали внос на автомате.</li>
-<li><span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-6 px-2 text-xs rounded-md">
+</span> - данный признак отвечает за автозаполнение суммы в приложении экспедитора, если он проставлен, то сумма полученных средст будет вставать автоматически у водителя, если нет, то ему придется в ручную её вводить. Рассчитана для контроля водителей, что бы они точно вносили данные, а не пропускали внос на автомате.</p>
+</li>
+<li><p><span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-6 px-2 text-xs rounded-md">
     <span>Использовать скрытый набор</span>
-</span> - позволяет в мобильном приложении осуществлять звонок клиенту не показывая его водителю, сам же клиент будет видеть звонок, как входящий с основного номера компании. Это позволяет оградить компанию от ситуаций, что водитель не контролируемо звонит клиенту, так же отменяет сбор данных о телефонах водителей, что бы они не начали работать в обход компании и в случае спорных ситуаций клиент всегда попадет в офис, и там узнают о звонке.
+</span> - позволяет в мобильном приложении осуществлять звонок клиенту не показывая его водителю, сам же клиент будет видеть звонок, как входящий с основного номера компании. Это позволяет оградить компанию от ситуаций, что водитель не контролируемо звонит клиенту, так же отменяет сбор данных о телефонах водителей, что бы они не начали работать в обход компании и в случае спорных ситуаций клиент всегда попадет в офис, и там узнают о звонке.</p>
 <ul>
 <li><span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-6 px-2 text-xs rounded-md">
     <span>Строгая привязка номеров водителей</span>
@@ -225,16 +228,14 @@
     <span>Разрешенные для донабора номера</span>
 </span> - это список номеров с которых разрешено совершать скрытые вызовы, по сути это настройка необходимой безопасности. Здесь указываются все номера водителей которым разрешено звонить. Номера указываются в 10 значном формате без 8</li>
 </ul>
+<p><img src="../../images/%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5_%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B8_2.png" alt="Заполнение разрешенных номеров" /></p>
+<ul>
+<li><span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-6 px-2 text-xs rounded-md">
+    <span>Номер для скрытого набора</span>
+</span> - ваш внутренний номер на который будут совершаться вызовы водителей для реализации схемы переадресации. Обязательно указывается в случае нашей схемы</li>
+</ul>
 </li>
 </ol>
-<p><figure class="content-center">
-    <img src="../../images/%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5_%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B8_2.png" alt="Заполнение разрешенных номеров" />
-    <figcaption class="caption">Заполнение разрешенных номеров</figcaption>
-</figure>
-</p>
-<div class="codeblock-wrapper"><doc-codeblock>
-<pre class="language-none"><code v-pre class="language-none">-  [!badge variant=&quot;Primary&quot; text=&quot;Номер для скрытого набора&quot;] - ваш внутренний номер на который будут совершаться вызовы водителей для реализации схемы переадресации. Обязательно указывается в случае нашей схемы</code></pre>
-</doc-codeblock></div>
 <doc-anchor-target id="создание-учетных-записей-для-водителей">
     <h3>
         <doc-anchor-trigger class="header-anchor-trigger" to="#создание-учетных-записей-для-водителей">#</doc-anchor-trigger>
