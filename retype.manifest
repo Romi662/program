@@ -1,0 +1,486 @@
+{
+  "version": "3.0.3",
+  "created": "2023-06-27T06:39:52Z",
+  "files": [
+    {
+      "path": ".nojekyll"
+    },
+    {
+      "path": "404.html"
+    },
+    {
+      "path": "инструкции-для-администратора\\1.-настройка-публикации-\\index.html"
+    },
+    {
+      "path": "инструкции-для-администратора\\2.-настройки-в-1с\\index.html"
+    },
+    {
+      "path": "инструкции-для-администратора\\3.-настройка-карты-в-1с\\index.html"
+    },
+    {
+      "path": "инструкции-экспедитора\\1.-установка-приложения\\index.html"
+    },
+    {
+      "path": "инструкции-экспедитора\\2.-маршрутный-лист\\index.html"
+    },
+    {
+      "path": "инструкции-экспедитора\\3.-точки-маршрута\\index.html"
+    },
+    {
+      "path": "инструкции-экспедитора\\4.-частые-вопросы\\index.html"
+    },
+    {
+      "path": "CNAME"
+    },
+    {
+      "path": "images\\2.png"
+    },
+    {
+      "path": "images\\2023-05-11-09-06-30-(online-video-cutter.com).gif"
+    },
+    {
+      "path": "images\\31.png"
+    },
+    {
+      "path": "images\\4d671cfe78cbb63a617875e1f6023157.jpeg"
+    },
+    {
+      "path": "images\\авт.png"
+    },
+    {
+      "path": "images\\авторизация.png"
+    },
+    {
+      "path": "images\\апи.png"
+    },
+    {
+      "path": "images\\базовые_настройки_1.png"
+    },
+    {
+      "path": "images\\базовые_настройки_2.png"
+    },
+    {
+      "path": "images\\внут01.png"
+    },
+    {
+      "path": "images\\внут02.png"
+    },
+    {
+      "path": "images\\впути.png"
+    },
+    {
+      "path": "images\\время.png"
+    },
+    {
+      "path": "images\\все.png"
+    },
+    {
+      "path": "images\\вход.png"
+    },
+    {
+      "path": "images\\гео.png"
+    },
+    {
+      "path": "images\\гл.png"
+    },
+    {
+      "path": "images\\готово.png"
+    },
+    {
+      "path": "images\\да.png"
+    },
+    {
+      "path": "images\\доп.png"
+    },
+    {
+      "path": "images\\доставил1.png"
+    },
+    {
+      "path": "images\\заказ.png"
+    },
+    {
+      "path": "images\\заказ03.png"
+    },
+    {
+      "path": "images\\заказ1.png"
+    },
+    {
+      "path": "images\\заказ2.png"
+    },
+    {
+      "path": "images\\идент.png"
+    },
+    {
+      "path": "images\\исмп.png"
+    },
+    {
+      "path": "images\\карта003.jpg"
+    },
+    {
+      "path": "images\\код.png"
+    },
+    {
+      "path": "images\\логин.png"
+    },
+    {
+      "path": "images\\логинпароль.jpg"
+    },
+    {
+      "path": "images\\мл.png"
+    },
+    {
+      "path": "images\\мл008.png"
+    },
+    {
+      "path": "images\\мл01.png"
+    },
+    {
+      "path": "images\\мл02.png"
+    },
+    {
+      "path": "images\\мл1.png"
+    },
+    {
+      "path": "images\\настройка_авторизации_1.png"
+    },
+    {
+      "path": "images\\настройка_авторизации_2.png"
+    },
+    {
+      "path": "images\\настройка_авторизации_3.png"
+    },
+    {
+      "path": "images\\настройка_иис_1.png"
+    },
+    {
+      "path": "images\\настройка_иис_2.png"
+    },
+    {
+      "path": "images\\настройка_иис_3.png"
+    },
+    {
+      "path": "images\\обновить.png"
+    },
+    {
+      "path": "images\\обновить02.png"
+    },
+    {
+      "path": "images\\обновить1.png"
+    },
+    {
+      "path": "images\\обновить2.png"
+    },
+    {
+      "path": "images\\одометр.png"
+    },
+    {
+      "path": "images\\оплата.png"
+    },
+    {
+      "path": "images\\отмена.png"
+    },
+    {
+      "path": "images\\отч.png"
+    },
+    {
+      "path": "images\\перемещение.png"
+    },
+    {
+      "path": "images\\перемещение2.png"
+    },
+    {
+      "path": "images\\переставить.png"
+    },
+    {
+      "path": "images\\погрузка.png"
+    },
+    {
+      "path": "images\\подкл.png"
+    },
+    {
+      "path": "images\\подкл2.png"
+    },
+    {
+      "path": "images\\получить01.png"
+    },
+    {
+      "path": "images\\получитьмл.png"
+    },
+    {
+      "path": "images\\права.png"
+    },
+    {
+      "path": "images\\прибыл01.png"
+    },
+    {
+      "path": "images\\проверка_работоспособности_1.png"
+    },
+    {
+      "path": "images\\публикация_1с_1.png"
+    },
+    {
+      "path": "images\\публикация_1с_2.png"
+    },
+    {
+      "path": "images\\публикация_1с_3.png"
+    },
+    {
+      "path": "images\\публикация_1с_4.png"
+    },
+    {
+      "path": "images\\публикация_1с_5.png"
+    },
+    {
+      "path": "images\\публикация_1с_6.png"
+    },
+    {
+      "path": "images\\разгрузка.png"
+    },
+    {
+      "path": "images\\разгрузка01.png"
+    },
+    {
+      "path": "images\\разгрузка2.png"
+    },
+    {
+      "path": "images\\сброс1.png"
+    },
+    {
+      "path": "images\\сброс2.png"
+    },
+    {
+      "path": "images\\сдача.png"
+    },
+    {
+      "path": "images\\сервис.png"
+    },
+    {
+      "path": "images\\скан03.png"
+    },
+    {
+      "path": "images\\склад.png"
+    },
+    {
+      "path": "images\\склад01.png"
+    },
+    {
+      "path": "images\\скрыватьточки.png"
+    },
+    {
+      "path": "images\\скрытые.png"
+    },
+    {
+      "path": "images\\создание_пользователя_1.png"
+    },
+    {
+      "path": "images\\создание_пользователя_2.png"
+    },
+    {
+      "path": "images\\создание_пользователя_3.png"
+    },
+    {
+      "path": "images\\стат.png"
+    },
+    {
+      "path": "images\\стат01.png"
+    },
+    {
+      "path": "images\\установка_иис_1.png"
+    },
+    {
+      "path": "images\\установка_иис_2.png"
+    },
+    {
+      "path": "images\\установка.png"
+    },
+    {
+      "path": "images\\установочник.jpg"
+    },
+    {
+      "path": "images\\фал1.png"
+    },
+    {
+      "path": "images\\del.png"
+    },
+    {
+      "path": "images\\gif.gif"
+    },
+    {
+      "path": "images\\gtin.png"
+    },
+    {
+      "path": "index.html"
+    },
+    {
+      "path": "resources\\css\\retype.css"
+    },
+    {
+      "path": "resources\\fonts\\Inter-italic-latin-var.woff2"
+    },
+    {
+      "path": "resources\\fonts\\Inter-roman-latin-var.woff2"
+    },
+    {
+      "path": "resources\\js\\config.js"
+    },
+    {
+      "path": "resources\\js\\lunr.js"
+    },
+    {
+      "path": "resources\\js\\retype.js"
+    },
+    {
+      "path": "resources\\js\\search.json"
+    },
+    {
+      "path": "resources\\lunr.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\mermaid.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\prism.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.LICENSE.txt"
+    },
+    {
+      "path": "robots.txt"
+    },
+    {
+      "path": "sitemap.xml.gz"
+    },
+    {
+      "path": "static\\15.gif"
+    },
+    {
+      "path": "static\\автмл.gif"
+    },
+    {
+      "path": "static\\автообн.gif"
+    },
+    {
+      "path": "static\\автообновление.gif"
+    },
+    {
+      "path": "static\\вернулсклад1.gif"
+    },
+    {
+      "path": "static\\версия.gif"
+    },
+    {
+      "path": "static\\грузовик.jpg"
+    },
+    {
+      "path": "static\\данные.gif"
+    },
+    {
+      "path": "static\\доставил008.gif"
+    },
+    {
+      "path": "static\\доставил1.gif"
+    },
+    {
+      "path": "static\\изменениетары.gif"
+    },
+    {
+      "path": "static\\изменениетовара.gif"
+    },
+    {
+      "path": "static\\изменитьтовар.gif"
+    },
+    {
+      "path": "static\\к.gif"
+    },
+    {
+      "path": "static\\код.gif"
+    },
+    {
+      "path": "static\\нескан.gif"
+    },
+    {
+      "path": "static\\обновитьмл.gif"
+    },
+    {
+      "path": "static\\оплачено003.gif"
+    },
+    {
+      "path": "static\\орг.gif"
+    },
+    {
+      "path": "static\\открытьзаявку.gif"
+    },
+    {
+      "path": "static\\отмена1.gif"
+    },
+    {
+      "path": "static\\переставитьточки.gif"
+    },
+    {
+      "path": "static\\поехал.gif"
+    },
+    {
+      "path": "static\\поехал007.gif"
+    },
+    {
+      "path": "static\\поехал008.gif"
+    },
+    {
+      "path": "static\\позвонить.gif"
+    },
+    {
+      "path": "static\\получениемл.gif"
+    },
+    {
+      "path": "static\\получилсклад.gif"
+    },
+    {
+      "path": "static\\получит008.gif"
+    },
+    {
+      "path": "static\\прибыл.gif"
+    },
+    {
+      "path": "static\\прибыл007.gif"
+    },
+    {
+      "path": "static\\прибыл008.gif"
+    },
+    {
+      "path": "static\\сбп.gif"
+    },
+    {
+      "path": "static\\сброс.gif"
+    },
+    {
+      "path": "static\\сброс009.gif"
+    },
+    {
+      "path": "static\\складвернул.gif"
+    },
+    {
+      "path": "static\\складполучить.gif"
+    },
+    {
+      "path": "static\\стат01.gif"
+    },
+    {
+      "path": "static\\статистика.gif"
+    },
+    {
+      "path": "static\\установка.gif"
+    },
+    {
+      "path": "static\\установочник.jpg"
+    },
+    {
+      "path": "static\\favicon.ico"
+    },
+    {
+      "path": "static\\gifполучениемл.gif"
+    }
+  ]
+}
